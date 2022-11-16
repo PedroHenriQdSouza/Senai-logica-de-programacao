@@ -1,2 +1,2 @@
-# Senai-logica-de-programacao
+# Wireframe-tarefa
 Trabalho para matéria logica de programação SENAI
